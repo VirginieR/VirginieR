@@ -22,7 +22,7 @@
 
 ### About my Work 💻
 
-- <a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3671737'>Most Non-Canonical Proteins Uniquely Populate the Proteome or Immunopeptidome</a>
+- <a href='https://pubmed.ncbi.nlm.nih.gov/33691108/'>Most Non-Canonical Proteins Uniquely Populate the Proteome or Immunopeptidome</a>
 - <a href='https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006891'>A multi-scale coevolutionary approach to predict interactions between protein domains</a>
 - <a href='https://hal.archives-ouvertes.fr/hal-01858403/'>Detecting Low-Complexity Confounders from Data</a>
 - <a href='https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005992'>Meet-U: Educating through research immersion</a>
