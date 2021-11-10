@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently a PhD candidate in Bioinformatics at Université de Montréal 💻
 - 🌱 I’m currently learning about genomics, transcriptomics and proteomics. 
-- ✨ I'm currently the secretary/treasurer of the <a href='http://www.aebinum.umontreal.ca/'>AEBINUM</a> 👩‍🎓 
 - 👯 I’m involved on causes to bring joy to children and families in Colombia <a href='https://www.facebook.com/groups/372788092798576'>Regala una sonrisa a un niño del Campo</a> 💬 Ask me about if you wanna get involved.
 - ⚡ Fun fact: My name is too long so people call me MaVi.
 - 🇨🇴 I'm from Colombia, I did my master degree in France 🇫🇷 and I moved to Canada for my PhD 🇨🇦... next to come.
